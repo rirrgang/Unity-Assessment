@@ -3,6 +3,9 @@
 ## Overview
 This repository and its files represent the work done for an assessment task with a fixed working time
 
+## Link to executable:
+https://drive.google.com/file/d/1IK7aNkKedBPlE_FRzFHwz_UA1w71neFf/view?usp=drive_link
+
 ## Tasks
 Overview over the completed tasks
 
